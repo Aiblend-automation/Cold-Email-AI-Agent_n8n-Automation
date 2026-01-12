@@ -34,11 +34,6 @@ I built an AI-powered automation using n8n that:
 - `workflow.json` → n8n workflow backup
 - `workflow.png` → Visual workflow overview
 
-## How to Reuse This Workflow
-1. Download `workflow.json`
-2. Import into n8n
-3. Connect your credentials (Gmail, OpenAI, Sheets)
-4. Update prompt or email content as needed
 
 ## Status
 This project was built as part of my AI automation learning journey.
